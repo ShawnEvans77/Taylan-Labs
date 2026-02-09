@@ -10,7 +10,8 @@ public class L3Q4 {
         int r = keyboard.nextInt();
 
         double answer = m * (r*r);
-        double solution = m * Math.pow(r, 2);
+        
+        System.out.println(answer);
 
         keyboard.close();
         

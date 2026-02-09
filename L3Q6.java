@@ -19,9 +19,6 @@ public class L3Q6 {
 
         System.out.println(seconds + " seconds equals " + hours + " hours " + minutes + " minutes " + remainingSeconds + " seconds.");
 
-        
-
-        
-        
+        keyboard.close();
     }
 }
