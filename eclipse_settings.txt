@@ -1,0 +1,12 @@
+- use project folder as root
+- uncheck module info
+- uncheck inherited abstract methods. check public static void main(String[] args)
+- window -> preferences -> general -> workspace -> refresh using native hooks or pulling
+- window -> preferences -> colors and fonts -> java -> java editor font -> apply -> apply and close
+- always save resources before launching
+- window -> preferences -> appearence -> colors and fonts -> debug -> console font -> apply -> apply and close
+- new class -> java class
+- ctrl + space -> sysout
+
+base editor font size is 17
+base terminal is 18
